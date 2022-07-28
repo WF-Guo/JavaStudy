@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bookstore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5b6ad19-b9dd-4c11-9edc-0fbb5811dc17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookstore_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookstore_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo01_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo01_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/day0601.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/web06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/java/com/example/bookstore/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/java/com/example/bookstore/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/manager/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/bookManger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/book_edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/minireset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/orderManger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/QR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/bottom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/bottom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/script/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/script/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/Javabianchengsixiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/ailuntulingzhuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/bainiangudu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/banner6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/biancheng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/books.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/cate4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/cate5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/cate6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/congwanqingdaominguo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/cyuyanrumenjingdian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/dashujuyuce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/fusang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/geihaizideshi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/huozhe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/huranqiri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/jiaofu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/jieyouzahuodian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/kanjian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/pinang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/pingfandeshijie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/qiadaohaochudexingfu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/renyueshenhua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/santi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/shejimoshizhichan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/shengmingbuxi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/shuxuezhimei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/sudongpozhuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/tujiejiqixuexi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/weinushiernian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/womensa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/wukongzhuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/xiaowangzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/yingpaijianshen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore/src/main/webapp/static/uploads/zhongguozhexueshi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/Servletdemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/utils/JDBCTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/resources/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/WEB-INF/lib/druid-1.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.36-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/webapp/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookstore" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CTiDesDcZuSNV1BMTgydPWsJ4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaCode/JavaStudy/bookstore/src/main/webapp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\JavaStudy\bookstore\src\main\webapp" />
+      <recent name="D:\JavaCode\JavaStudy\demo01\src\main\java\com\example\utils" />
+      <recent name="D:\JavaCode\JavaStudy\demo01\src\main\resources" />
+      <recent name="D:\JavaCode\JavaStudy\demo01\src\main\webapp\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\JavaStudy\demo01\src\main\webapp" />
+      <recent name="D:\JavaCode\JavaStudy\bookstore\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="JavaStudy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="JavaStudy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="bookstore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/bookstore" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ea2ce94a-4c43-4b50-9e8c-e73dccf91e6c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10551" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bookstore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b6ad19-b9dd-4c11-9edc-0fbb5811dc17" name="Changes" comment="" />
+      <created>1658832857533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658832857533</updated>
+      <workItem from="1658832859001" duration="1507000" />
+      <workItem from="1658883730429" duration="1264000" />
+      <workItem from="1658924238910" duration="4320000" />
+      <workItem from="1658975261275" duration="3297000" />
+      <workItem from="1658980805090" duration="2370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
